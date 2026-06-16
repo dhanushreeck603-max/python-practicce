@@ -1,6 +1,6 @@
-a=8
+num=8
 
-if num %2==0
-print("number is odd")
+if num %2 == 0:
+   print("number is even")
 else:
-print("number is even")
+   print("number is odd")
